@@ -1,0 +1,6 @@
+Django==4.1.2 
+django-extensions==3.2.1  
+django-shell-plus==1.1.7  
+parameterized==0.8.1
+pytest==7.2.0
+pytest-django==4.5.2
